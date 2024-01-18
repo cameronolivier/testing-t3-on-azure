@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/testing-t3-on-azure.iml" filepath="$PROJECT_DIR$/.idea/testing-t3-on-azure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ughy.iml" filepath="$PROJECT_DIR$/.idea/ughy.iml" />
     </modules>
   </component>
 </project>
